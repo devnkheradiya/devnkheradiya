@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @devnkheradiya
 - 👀 I’m interested in coding.
 - 🌱 I’m currently pursuing B.E.
-- 💞️ 
 - 📫also you can contact me through my Instagram @devnkheradiya
 
 <!---
