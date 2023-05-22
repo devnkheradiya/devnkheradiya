@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React,Redux,MongoDB,Node.js**
 
-- 💬 Ask me about **Front-end web development**
+- 💬 Ask me about **Full stack web development**
 
 - 📫 How to reach me **denkheradiya@gmail.com**
 
