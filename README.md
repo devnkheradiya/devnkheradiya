@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **denkheradiya@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UiRsJvZUtY4AQTel0eiMfLdDaih-i3PI/view?usp=share_link](https://drive.google.com/file/d/1UiRsJvZUtY4AQTel0eiMfLdDaih-i3PI/view?usp=share_link)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kheradiyadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kheradiyadev" height="30" width="40" /></a>
